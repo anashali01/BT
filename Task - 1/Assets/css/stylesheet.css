@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Durendal & Oliphant';
+    src: url('../Font/transfonter.org-20250205-165834/') format('woff2'),
+        url('../Font/transfonter.org-20250205-165834/DurendalOliphant-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONT-BLACK2';
+    src: url('../Font/transfonter.org-20250205-171737/') format('woff2'),
+        url('../Font/transfonter.org-20250205-171737/FONTBLACK2BLACK.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONT-BOLD2';
+    src: url('../Font/transfonter.org-20250205-171737/FONTBOLD2Bold.woff2') format('woff2'),
+        url('../Font/transfonter.org-20250205-171737/FONTBOLD2Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}

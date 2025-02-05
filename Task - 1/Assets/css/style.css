@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+    display: block;
+}
+.banner h1{
+    font-size: 350px;
+    font-family: "Durendal & Oliphant";
+    
+}
+.banner h2{
+    font-family: "FONT-BLACK2";
+    font-size: 75px;
+}
+.banner .bottom-content p{
+    font-size: 20px;
+}
+.banner .bottom-content span{
+    font-size: 30px;
+}
+.banner .bottom-content i{
+    transform: rotate(330deg);
+    font-size: 20px;
+}
+
+.blog-1,.blog-2,.staff-1,.staff-2,.staff-3{
+    border-right: 1px solid gray;
+    padding-right: 20px;
+}
+.blog-1 .blog-text h2 ,.blog-2 .blog-text h2,.blog-3 .blog-text h2{
+    font-size: 45px;
+    font-family: "FONT-BLACK2";
+    border-bottom: 2px dashed rgba(128, 128, 128, 0.354);
+}
+.blog-2 .blog-text h2{
+    font-size: 40px;
+}
+.blog-3 .blog-text h2{
+    font-size: 36px;
+}
+.staff h2{
+    font-size: 120px;
+    font-family: "FONT-BLACK2";
+}
+.staff .staff-text h3{
+    font-size: 45px;
+    font-family: "FONT-BLACK2";
+}
